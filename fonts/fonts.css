@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url('Ilisarniq-Regular.eot');
+  src: url('Ilisarniq-Regular.eot?#iefix') format('embedded-opentype'),
+       url('Ilisarniq-Regular.woff2') format('woff2'),
+       url('Ilisarniq-Regular.woff') format('woff'),
+       url('Ilisarniq-Regular.ttf')  format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url('Ilisarniq-Bold.eot');
+  src: url('Ilisarniq-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Ilisarniq-Bold.woff2') format('woff2'),
+       url('Ilisarniq-Bold.woff') format('woff'),
+       url('Ilisarniq-Bold.ttf')  format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Ilisarniq';
+  src: url('Ilisarniq-Black.eot');
+  src: url('Ilisarniq-Black.eot?#iefix') format('embedded-opentype'),
+       url('Ilisarniq-Black.woff2') format('woff2'),
+       url('Ilisarniq-Black.woff') format('woff'),
+       url('Ilisarniq-Black.ttf')  format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
